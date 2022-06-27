@@ -8,7 +8,7 @@
   - JUnit Platform: 테스트를 실행해주는 런처와 TestEngine API를 제공함.
   - Jupiter: TestEngine API 구현체로 JUnit5에서 제공함. 
   - Vintage: TestEngine API 구현체로 JUnit3, 4에서 제공함.
-- Junit5 Annotation
+- Junit5 Annotation 
 
   
   | Annotation             |                                         내용                                          |
