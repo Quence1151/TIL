@@ -4,7 +4,7 @@
   - JUnit5은 자바8 이상부터 사용이 가능
   - Junit4는 단일 jar 구성 -> JUnit5는 크게 3가지 모듈로 구성
   - JUnit5는 테스트 작성자를 위한 API 모듈과 테스트 실행을 위한 API가 분리
-- Junit5 구조
+- Junit5 구조 
   - JUnit Platform: 테스트를 실행해주는 런처와 TestEngine API를 제공함.
   - Jupiter: TestEngine API 구현체로 JUnit5에서 제공함. 
   - Vintage: TestEngine API 구현체로 JUnit3, 4에서 제공함.
